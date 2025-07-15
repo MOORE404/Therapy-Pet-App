@@ -14,9 +14,6 @@ This prototype focuses on intuitive interaction design, accessibility, and user-
 <div align="center">
 
 <table>
-  <tr>
-  <td align="center" colspan="3"><b>Pet Profile</b></td>
-  </tr>
     <td align="center" colspan="3"><b>Pet Profile</b></td>
   </tr>
   <tr>
