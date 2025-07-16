@@ -6,7 +6,7 @@ A high-fidelity Figma prototype for a dog-sitting mobile app
 
 This prototype focuses on intuitive interaction design, accessibility, and user-centered layout. Core features include browsing sitters, filtering by preferences, and viewing sitter profiles; all designed to support seamless, trustworthy booking experiences for pet owners.
 
-[View Figma Prototype] https://www.figma.com/proto/gt6NCbJmt4BonKkWXCAyvX/Prototype-%7C-HCI?node-id=0-1&t=WBGYZ1V64uM7ipXF-1
+View Figma Prototype: https://www.figma.com/proto/gt6NCbJmt4BonKkWXCAyvX/Prototype-%7C-HCI?node-id=0-1&t=WBGYZ1V64uM7ipXF-1
 
 
 ## Screenshots
