@@ -38,6 +38,29 @@ View Figma Prototype: https://www.figma.com/proto/gt6NCbJmt4BonKkWXCAyvX/Prototy
 
 </div>
 
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" colspan="3"><b>Homepage – Apple Vision-style Preview</b></td>
+  </tr>
+  <tr>
+    <td align="center" colspan="3">
+      <img src="Appleversion.gif" width="260" height="460" style="object-fit: contain; border-radius: 10px;" alt="Homepage Vision Style Preview"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="3">
+      <i>I envisioned what this app may look like with apples upcoming glass UI and the future of ux innovation. My vision is a little excessive with the glass feature which will likely impact performance, but this is a vision for beyond the limitations of older iphones.</i>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+
+
+
 ## Design Process & Choices
 
 ### Conceptual Module
